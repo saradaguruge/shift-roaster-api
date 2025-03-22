@@ -19,13 +19,17 @@
 - [x] CRUD Endpoints for Places
   - [x] Create Place
   - [x] Read Place (by ID)
-  - [x] Read All Places
+  - [x] Read All Places (with pagination)
+  - [x] Update Place
   - [x] Delete Place
-- [ ] Place-Specific Shift Configuration
-- [ ] Place Switching Functionality
-- [ ] Place Validation and Business Rules
-- [ ] Update Place Endpoint
-- [ ] Place Search/Filter Functionality
+- [x] Place-Specific Shift Configuration
+- [x] Place Switching Functionality
+- [x] Place Validation and Business Rules
+- [x] Place Search/Filter Functionality
+- [x] Team Member Management for Places
+  - [x] Get Team Members
+  - [x] Update Team Members
+- [x] Place Configuration Management
 
 ## 3. Team Management
 - [x] Team Member Entity Structure
@@ -39,7 +43,12 @@
 ## 4. Shift Management
 - [x] Basic Shift Entity
 - [x] Shift-Place Association
-- [ ] Shift Creation and Management Endpoints
+- [x] Shift Creation and Management Endpoints
+  - [x] Create Shift
+  - [x] Read Shift (by ID)
+  - [x] Read Shifts by Place
+  - [x] Update Shift
+  - [x] Delete Shift
 - [ ] Shift Validation Rules
 - [ ] Shift Duration Calculation
 - [ ] Shift Conflict Detection
